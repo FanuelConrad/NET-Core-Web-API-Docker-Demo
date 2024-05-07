@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "0rifv7vjioif17+0JCfmXCoBI/2mgFH7NlotUo8cGah4AhOb85G5uSQCWIck7RK2hKpTbUKS63NcY78kNRXGvQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\conra\\Documents\\Github\\NET-Core-Web-API-Docker-Demo\\NET-Core-Web-API-Docker-Demo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\conra\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\conra\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\conra\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\conra\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\conra\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\conra\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
